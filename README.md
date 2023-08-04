@@ -7,7 +7,7 @@ This is a small, simple little package for seeing who's currently online.
 Install via composer with:
 
 ```
-composer require joshrainwater/active-users
+composer require TheThunderTurner/active-users
 ```
 
 ## Setup
