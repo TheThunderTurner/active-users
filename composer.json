@@ -12,7 +12,7 @@
             "type": "vcs",
             "url": "https://github.com/laravel-shift/active-users.git"
         }
-    ]
+    ],
     "license": "MIT",
     "type": "library",
     "author": {
